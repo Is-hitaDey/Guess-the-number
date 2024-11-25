@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin-top:10vh;
+    background-color: black;
+}
+
+.box{
+    height:40vh;
+    width:70vw;
+    background-color:rgb(232, 243, 41);
+    box-shadow: grey 10px 8px 10px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.box2{
+    height:33vh;
+    width:60vw;
+    background-color:white;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    font-size: 45px;
+    font-family: dancing script;
+    font-weight:1000;
+    border-radius:15px;
+    text-shadow: rgba(0, 0, 0, 0.548) 4px 4px 2px;
+    color:red;
+}
+
