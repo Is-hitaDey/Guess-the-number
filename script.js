@@ -1,6 +1,8 @@
 let val = Math.floor(Math.random()*100)+1;
 alert("WELCOME to Guess the Number game");
 alert("The Random number is chosen now its your turn...")
+alert("The Random number is chosen now its your turn...");
+alert("The number is between 1-100");
 let guess=-1;
 let count=0;
 while (guess!=0){
